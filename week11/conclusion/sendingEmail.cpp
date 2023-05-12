@@ -1,3 +1,6 @@
+// UVa 10986 see the problem description
+// https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=1927
+ 
 #include <iostream>
 #include <stdlib.h>
 #include <climits>
